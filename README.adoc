@@ -1,0 +1,7 @@
+= Deep dive into the Groovy compiler
+
+Slides for talk given at the Groovy and Grails eXchange 2015, London.
+
+Pre-rendered slides can be viewed at http://melix.github.io/ggx2015-deep-dive-groovy-compiler
+
+
